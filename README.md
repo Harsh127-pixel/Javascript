@@ -1,3 +1,3 @@
 # Javascript
 Learning of javascript <br>
-author - Harsh Bhojwani
+author - Harsh Bhojwani (student)
